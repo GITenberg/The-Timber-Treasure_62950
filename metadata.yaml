@@ -1,5 +1,8 @@
 _repo: The-Timber-Treasure_62950
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62950-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollock, Frank Lillie
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36703
     wikipedia: https://en.wikipedia.org/wiki/Francis_Pollock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62950#The-Timber-Treasure
 gutenberg_issued: '2020-08-16'
 gutenberg_type: Text
 identifiers:
